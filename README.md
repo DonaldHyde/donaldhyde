@@ -1,6 +1,6 @@
 ![Hi, I'm Donnie, Front-End Developer](./files/hero-intro.jpg)
 
-I'm a Front-End Developer based in midcoast Maine.
+## I'm a Front-End Developer based in midcoast Maine.
 
 I am a full-featured engineer who enjoys the process of turning
 great designs into working software. I have nearly a decade of
