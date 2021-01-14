@@ -1,4 +1,4 @@
-### Hi, I'm Donnie 👋
+![Hi, I'm Donnie, Front-End Developer](./images/hero-intro.jpg)
 
 <!--
 **DonaldHyde/donaldhyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
