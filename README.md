@@ -16,7 +16,13 @@ as a front-end developer in 2011 and specialize in JavaScript, HTML, CSS, React,
 
 There isn't much to see on my [CodePen](https://codepen.io/donniehyde), but feel free to check it out.
 
-You can find out more about my development experience on [LinkedIn](https://www.linkedin.com/in/donaldhyde/) or by downloading my [resume](./files/donaldHydeResume.pdf).
+You can find out more about my experience on [LinkedIn](https://www.linkedin.com/in/donaldhyde/) and/or by downloading my resume:
+
+[Front-End Developer Resume](./files/donaldHydeFEResume.pdf)
+
+[Product Owner Resume](./files/donaldHydePOResume.pdf)
+
+[Scrum Master Resume](./files/donaldHydeSMResume.pdf)
 
 <!--
 **DonaldHyde/donaldhyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
